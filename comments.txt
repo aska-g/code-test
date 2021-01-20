@@ -1,0 +1,15 @@
+- Considering time constraints, I prioritized functionality over styling
+
+- There are many shortcoming here, for instance the display of the leaderboard is not thought through for cases of users without usernames, images etc., same as for the case of no leaderboard present for a certain game at all
+
+- According to the data received, the current user did not play any of the games; I changed this to include them in some of the leaderboards, in order to test the scrolling functionality 
+
+- Code is quite repetitive in some spots
+
+- Some values are hardcoded (for instance the correct highlight and scrolling of the current user within a leaderboard relies on a fixed hight of both rows and the list), the solution would need to be improved to make the app responsive
+
+- Some warnings are still showing in the console, this is mostly because of my manual changes to the json file
+
+- Git doesn't carry any commits before the task was more or less completed as I've been having issues with my Mac and had to code it on my parnter's work computer, and only managed to transfer it today
+
+- I left out the last 2 optionals due to lack of time
