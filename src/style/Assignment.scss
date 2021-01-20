@@ -1,0 +1,10 @@
+.assignment h1 {
+    font-size: 1.5em;
+    color: #f05454;
+    text-transform: uppercase;
+}
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}

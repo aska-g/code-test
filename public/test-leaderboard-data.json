@@ -1,0 +1,1136 @@
+{
+  "leaderboard_data": [
+    {
+      "title": "Metallica",
+      "category": "high_score",
+      "scope": "company",
+      "company": { "id": 1, "name_key": "attensi", "name": "Attensi" },
+      "my_entry": null,
+      "entries": [
+        {
+          "user": {
+            "id": 2,
+            "username": "gard",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-031e.svg",
+            "department": "Oslo",
+            "level": 2,
+            "first_name": "Gard Sandholt",
+            "last_name": ""
+          },
+          "rank": 1,
+          "value": 1
+        },
+        {
+          "user": {
+            "id": 11989,
+            "username": "Trond AA",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-5825.svg",
+            "department": null,
+            "level": 1,
+            "first_name": "Trond",
+            "last_name": "A."
+          },
+          "rank": 2,
+          "value": 120777
+        },
+        {
+          "user": {
+            "id": 8687,
+            "username": "FS",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a26d.svg",
+            "department": "Oslo",
+            "level": 1,
+            "first_name": "Fredrik",
+            "last_name": "Samuelsen"
+          },
+          "rank": 3,
+          "value": 108599
+        },
+        {
+          "user": {
+            "id": 4,
+            "username": "Hjk",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-7275.svg",
+            "department": "Oslo",
+            "level": 2,
+            "first_name": "Eirik Monsen",
+            "last_name": ""
+          },
+          "rank": 4,
+          "value": 90281
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 5,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 7914,
+            "username": "Anonymous",
+            "image":
+              "https://s3.eu-central-1.amazonaws.com/attensi-portal-production/images/defaults/avatar-default.svg",
+            "department": "Oslo",
+            "level": 2
+          },
+          "rank": 6,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "Car to Mars",
+      "category": "high_score",
+      "scope": "company",
+      "company": { "id": 13, "name_key": "attensi", "name": "Attensi" },
+      "my_entry": null,
+      "entries": [
+        {
+          "user": {
+            "id": 8357,
+            "username": null,
+            "image": null,
+            "department": "Verdal",
+            "level": 6,
+            "first_name": "Mats A Furunes",
+            "last_name": "Indgaard"
+          },
+          "rank": 1,
+          "value": 11270
+        },
+        {
+          "user": {
+            "id": 8403,
+            "username": null,
+            "image": null,
+            "department": "Rælingen",
+            "level": 6,
+            "first_name": "Robert Klerstål",
+            "last_name": null
+          },
+          "rank": 2,
+          "value": 10891
+        },
+        {
+          "user": {
+            "id": 9520,
+            "username": null,
+            "image": null,
+            "department": "Langevåg",
+            "level": 6,
+            "first_name": "Marthe",
+            "last_name": "Vadseth"
+          },
+          "rank": 3,
+          "value": 10793
+        },
+        {
+          "user": {
+            "id": 8254,
+            "username": "Anonymous",
+            "image": null,
+            "department": "Hunstad",
+            "level": 9,
+            "first_name": "Gunn",
+            "last_name": "Øhlen"
+          },
+          "rank": 4,
+          "value": 10743
+        },
+        {
+          "user": {
+            "id": 8312,
+            "username": null,
+            "image": null,
+            "department": "Elverum",
+            "level": 8,
+            "first_name": "Robert",
+            "last_name": "Aker"
+          },
+          "rank": 5,
+          "value": 10742
+        },
+        {
+          "user": {
+            "id": 8218,
+            "username": null,
+            "image": null,
+            "department": "Krøgenes",
+            "level": 7,
+            "first_name": "Marita",
+            "last_name": "Christiansen"
+          },
+          "rank": 6,
+          "value": 10693
+        },
+        {
+          "user": {
+            "id": 8159,
+            "username": null,
+            "image": null,
+            "department": "Nedenes",
+            "level": 5,
+            "first_name": "Morten Sten Bjerkseth",
+            "last_name": null
+          },
+          "rank": 7,
+          "value": 10692
+        },
+        {
+          "user": {
+            "id": 8470,
+            "username": null,
+            "image": null,
+            "department": "Vågsbygda",
+            "level": 6,
+            "first_name": "Katharina",
+            "last_name": "Friese"
+          },
+          "rank": 8,
+          "value": 10690
+        },
+        {
+          "user": {
+            "id": 9210,
+            "username": null,
+            "image": null,
+            "department": "Mjøndalen",
+            "level": 8,
+            "first_name": "Jeanette",
+            "last_name": "Aasland"
+          },
+          "rank": 9,
+          "value": 10683
+        },
+        {
+          "user": {
+            "id": 8521,
+            "username": null,
+            "image": null,
+            "department": "Maura",
+            "level": 8,
+            "first_name": "Ingrid",
+            "last_name": "Bergum"
+          },
+          "rank": 10,
+          "value": 10643
+        },
+        {
+          "user": {
+            "id": 8549,
+            "username": null,
+            "image": null,
+            "department": "Eidsvoll",
+            "level": 8,
+            "first_name": "Nathalie S",
+            "last_name": "K Lund"
+          },
+          "rank": 11,
+          "value": 10643
+        },
+        {
+          "user": {
+            "id": 9172,
+            "username": null,
+            "image": null,
+            "department": "Klepp",
+            "level": 7,
+            "first_name": "Kristine",
+            "last_name": "Braut"
+          },
+          "rank": 12,
+          "value": 10642
+        },
+        {
+          "user": {
+            "id": 8566,
+            "username": null,
+            "image": null,
+            "department": "Vågsbygda",
+            "level": 3,
+            "first_name": "Rolf Tore",
+            "last_name": "Eide"
+          },
+          "rank": 13,
+          "value": 10641
+        },
+        {
+          "user": {
+            "id": 10773,
+            "username": "our current user",
+            "image":
+              "https://attensi-portal-production.s3.eu-central-1.amazonaws.com/images/avatars/animals/avatar-image-8dd2.svg",
+            "department": null,
+            "level": 1,
+            "first_name": "Test",
+            "last_name": "User"
+          },
+          "rank": 9,
+          "value": 115740
+        },
+        {
+          "user": {
+            "id": 8413,
+            "username": null,
+            "image": null,
+            "department": "Rakkestad",
+            "level": 6,
+            "first_name": "Henriette",
+            "last_name": "Antonsen"
+          },
+          "rank": 14,
+          "value": 10640
+        },
+        {
+          "user": {
+            "id": 8170,
+            "username": null,
+            "image": null,
+            "department": "Sogndal",
+            "level": 13,
+            "first_name": "Benjamin",
+            "last_name": "Hundershagen"
+          },
+          "rank": 15,
+          "value": 10591
+        }
+      ]
+    },
+    {
+      "title": "Scary Game",
+      "category": "high_score",
+      "scope": "company",
+      "company": { "id": 13, "name_key": "attensi", "name": "Attensi" },
+      "my_entry": null,
+      "entries": [
+        {
+          "user": {
+            "id": 9115,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 20,
+            "first_name": "Kim",
+            "last_name": "Skotnes"
+          },
+          "rank": 1,
+          "value": 149350
+        },
+        {
+          "user": {
+            "id": 15846,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 6,
+            "first_name": "Mari",
+            "last_name": "Døsvik"
+          },
+          "rank": 2,
+          "value": 143050
+        },
+        {
+          "user": {
+            "id": 11029,
+            "username": "username",
+            "image":
+              "https://attensi-portal-production.s3.eu-central-1.amazonaws.com/images/avatars/animals/avatar-image-8dd2.svg",
+            "department": null,
+            "level": 1,
+            "first_name": "Test",
+            "last_name": "User"
+          },
+          "rank": 3,
+          "value": 136650
+        },
+        {
+          "user": {
+            "id": 15906,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 7,
+            "first_name": "Tinka",
+            "last_name": "Sandaker Ruud"
+          },
+          "rank": 4,
+          "value": 123350
+        },
+        {
+          "user": {
+            "id": 15864,
+            "username": null,
+            "image": null,
+            "department": "Namsos",
+            "level": 6,
+            "first_name": "Monica",
+            "last_name": "Myrvold"
+          },
+          "rank": 5,
+          "value": 121600
+        },
+        {
+          "user": {
+            "id": 9520,
+            "username": null,
+            "image": null,
+            "department": "Langevåg",
+            "level": 6,
+            "first_name": "Marthe",
+            "last_name": "Vadseth"
+          },
+          "rank": 6,
+          "value": 120100
+        },
+        {
+          "user": {
+            "id": 15285,
+            "username": null,
+            "image": null,
+            "department": "Jessheim",
+            "level": 3,
+            "first_name": "Joakim Dræge",
+            "last_name": "Ristesund"
+          },
+          "rank": 7,
+          "value": 120100
+        },
+        {
+          "user": {
+            "id": 15232,
+            "username": null,
+            "image": null,
+            "department": "Kirkenær",
+            "level": 2,
+            "first_name": "Anne-Berit",
+            "last_name": "Dammen Fjeld"
+          },
+          "rank": 8,
+          "value": 115750
+        },
+        {
+          "user": {
+            "id": 10773,
+            "username": "our current user",
+            "image":
+              "https://attensi-portal-production.s3.eu-central-1.amazonaws.com/images/avatars/animals/avatar-image-8dd2.svg",
+            "department": null,
+            "level": 1,
+            "first_name": "Test",
+            "last_name": "User"
+          },
+          "rank": 9,
+          "value": 115740
+        },
+        {
+          "user": {
+            "id": 9177,
+            "username": null,
+            "image": null,
+            "department": "Levanger",
+            "level": 6,
+            "first_name": "Malin",
+            "last_name": "Ekseth"
+          },
+          "rank": 10,
+          "value": 106850
+        },
+        {
+          "user": {
+            "id": 8371,
+            "username": null,
+            "image": null,
+            "department": "Lena",
+            "level": 6,
+            "first_name": "Anders",
+            "last_name": "Sørbo"
+          },
+          "rank": 11,
+          "value": 106500
+        },
+        {
+          "user": {
+            "id": 16529,
+            "username": null,
+            "image": null,
+            "department": "Kragerø",
+            "level": 3,
+            "first_name": "Bjørg Liane",
+            "last_name": "Dukefoss"
+          },
+          "rank": 12,
+          "value": 104350
+        },
+        {
+          "user": {
+            "id": 11413,
+            "username": null,
+            "image": null,
+            "department": "Brønnøysund",
+            "level": 3,
+            "first_name": "Anette Rossvik",
+            "last_name": "Al-Khouli"
+          },
+          "rank": 13,
+          "value": 102250
+        },
+        {
+          "user": {
+            "id": 15902,
+            "username": null,
+            "image": null,
+            "department": "Levanger",
+            "level": 6,
+            "first_name": "Terese",
+            "last_name": "Rømo"
+          },
+          "rank": 14,
+          "value": 101500
+        },
+        {
+          "user": {
+            "id": 15902,
+            "username": null,
+            "image": null,
+            "department": "Levanger",
+            "level": 6,
+            "first_name": "Terese",
+            "last_name": "Rømo"
+          },
+          "rank": 14,
+          "value": 101500
+        },
+        {
+          "user": {
+            "id": 15902,
+            "username": null,
+            "image": null,
+            "department": "Levanger",
+            "level": 6,
+            "first_name": "Terese",
+            "last_name": "Rømo"
+          },
+          "rank": 14,
+          "value": 101500
+        },
+        {
+          "user": {
+            "id": 15902,
+            "username": null,
+            "image": null,
+            "department": "Levanger",
+            "level": 6,
+            "first_name": "Terese",
+            "last_name": "Rømo"
+          },
+          "rank": 14,
+          "value": 101500
+        },
+        {
+          "user": {
+            "id": 15329,
+            "username": null,
+            "image": null,
+            "department": "Jessheim",
+            "level": 3,
+            "first_name": "Martin",
+            "last_name": "Nystuen"
+          },
+          "rank": 15,
+          "value": 100850
+        },
+        {
+          "user": {
+            "id": 15846,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 6,
+            "first_name": "Mari",
+            "last_name": "Døsvik"
+          },
+          "rank": 2,
+          "value": 143050
+        },
+        {
+          "user": {
+            "id": 15846,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 6,
+            "first_name": "Mari",
+            "last_name": "Døsvik"
+          },
+          "rank": 2,
+          "value": 143050
+        },
+        {
+          "user": {
+            "id": 15846,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 6,
+            "first_name": "Mari",
+            "last_name": "Døsvik"
+          },
+          "rank": 2,
+          "value": 143050
+        }
+      ]
+    },
+    {
+      "title": "LOTR",
+      "category": "high_score",
+      "scope": "company",
+      "company": { "id": 13, "name_key": "attensi", "name": "Attensi" },
+      "my_entry": null,
+      "entries": [
+        {
+          "user": {
+            "id": 11353,
+            "username": null,
+            "image": null,
+            "department": "Harstad",
+            "level": 3,
+            "first_name": "Charlie",
+            "last_name": "Berglund"
+          },
+          "rank": 1,
+          "value": 1527100
+        },
+        {
+          "user": {
+            "id": 8416,
+            "username": null,
+            "image": null,
+            "department": "Spydeberg",
+            "level": 5,
+            "first_name": "Ann-Mari",
+            "last_name": "Havsten"
+          },
+          "rank": 2,
+          "value": 1502800
+        },
+        {
+          "user": {
+            "id": 8218,
+            "username": null,
+            "image": null,
+            "department": "Krøgenes",
+            "level": 7,
+            "first_name": "Marita",
+            "last_name": "Christiansen"
+          },
+          "rank": 3,
+          "value": 1478900
+        },
+        {
+          "user": {
+            "id": 11296,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 2,
+            "first_name": "Ingvill G",
+            "last_name": "Rønningen"
+          },
+          "rank": 4,
+          "value": 1468800
+        },
+        {
+          "user": {
+            "id": 8513,
+            "username": null,
+            "image": null,
+            "department": "Evje",
+            "level": 6,
+            "first_name": "Veronica B",
+            "last_name": "Versland"
+          },
+          "rank": 5,
+          "value": 1457600
+        },
+        {
+          "user": {
+            "id": 8409,
+            "username": null,
+            "image": null,
+            "department": "Grasmyr",
+            "level": 7,
+            "first_name": "Nina",
+            "last_name": "Skagsoset"
+          },
+          "rank": 6,
+          "value": 1431300
+        },
+        {
+          "user": {
+            "id": 8549,
+            "username": null,
+            "image": null,
+            "department": "Eidsvoll",
+            "level": 8,
+            "first_name": "Nathalie S",
+            "last_name": "K Lund"
+          },
+          "rank": 7,
+          "value": 1427950
+        },
+        {
+          "user": {
+            "id": 8327,
+            "username": null,
+            "image": null,
+            "department": "Røros",
+            "level": 7,
+            "first_name": "Silje Prytz",
+            "last_name": "Rambraut"
+          },
+          "rank": 8,
+          "value": 1420600
+        },
+        {
+          "user": {
+            "id": 9115,
+            "username": null,
+            "image": null,
+            "department": "Brekstad",
+            "level": 20,
+            "first_name": "Kim",
+            "last_name": "Skotnes"
+          },
+          "rank": 9,
+          "value": 1416600
+        },
+        {
+          "user": {
+            "id": 10789,
+            "username": null,
+            "image": null,
+            "department": "Nordfjordeid",
+            "level": 8,
+            "first_name": "Helene",
+            "last_name": "Kongsvik Vindfjell"
+          },
+          "rank": 10,
+          "value": 1374750
+        },
+        {
+          "user": {
+            "id": 8278,
+            "username": null,
+            "image": null,
+            "department": "Risør",
+            "level": 7,
+            "first_name": "Kenneth",
+            "last_name": "Aslaksen"
+          },
+          "rank": 11,
+          "value": 1338750
+        },
+        {
+          "user": {
+            "id": 8585,
+            "username": null,
+            "image": null,
+            "department": "Stoa",
+            "level": 9,
+            "first_name": "Linn Renate",
+            "last_name": "Andersen"
+          },
+          "rank": 12,
+          "value": 1338550
+        },
+        {
+          "user": {
+            "id": 8509,
+            "username": null,
+            "image": null,
+            "department": "Mortensrud",
+            "level": 4,
+            "first_name": "Ika",
+            "last_name": "Wahyuni-Lagem"
+          },
+          "rank": 13,
+          "value": 1330950
+        },
+        {
+          "user": {
+            "id": 8501,
+            "username": null,
+            "image": null,
+            "department": "Levanger",
+            "level": 9,
+            "first_name": "Ingar",
+            "last_name": "Frelsøy"
+          },
+          "rank": 14,
+          "value": 1312600
+        },
+        {
+          "user": {
+            "id": 8480,
+            "username": null,
+            "image": null,
+            "department": "Orkanger",
+            "level": 4,
+            "first_name": "Annika",
+            "last_name": "Wiik"
+          },
+          "rank": 15,
+          "value": 1297000
+        }
+      ]
+    },
+    {
+      "title": "Dead Pool",
+      "category": "high_score",
+      "scope": "company",
+      "company": { "id": 1, "name_key": "attensi", "name": "Attensi" },
+      "my_entry": null,
+      "entries": [
+        {
+          "user": {
+            "id": 2,
+            "username": "gard",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-031e.svg",
+            "department": "Oslo",
+            "level": 2,
+            "first_name": "Gard Sandholt",
+            "last_name": ""
+          },
+          "rank": 1,
+          "value": 123496
+        },
+        {
+          "user": {
+            "id": 11989,
+            "username": "Trond AA",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-5825.svg",
+            "department": null,
+            "level": 1,
+            "first_name": "Trond",
+            "last_name": "A."
+          },
+          "rank": 2,
+          "value": 120777
+        },
+        {
+          "user": {
+            "id": 8687,
+            "username": "FS",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a26d.svg",
+            "department": "Oslo",
+            "level": 1,
+            "first_name": "Fredrik",
+            "last_name": "Samuelsen"
+          },
+          "rank": 3,
+          "value": 108599
+        },
+        {
+          "user": {
+            "id": 4,
+            "username": "Hjk",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-7275.svg",
+            "department": "Oslo",
+            "level": 2,
+            "first_name": "Eirik Monsen",
+            "last_name": ""
+          },
+          "rank": 4,
+          "value": 90281
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 5,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 7914,
+            "username": "Anonymous",
+            "image":
+              "https://s3.eu-central-1.amazonaws.com/attensi-portal-production/images/defaults/avatar-default.svg",
+            "department": "Oslo",
+            "level": 2
+          },
+          "rank": 6,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "Dragon Balls",
+      "category": "high_score",
+      "scope": "company",
+      "company": { "id": 1, "name_key": "attensi", "name": "Attensi" },
+      "my_entry": {
+        "user": {
+          "id": 11981,
+          "username": "IYg",
+          "image":
+            "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a26d.svg",
+          "department": "Oslo",
+          "level": 1,
+          "first_name": "Sadan-Test",
+          "last_name": ""
+        },
+        "rank": 4,
+        "value": 92139
+      },
+      "entries": [
+        {
+          "user": {
+            "id": 2,
+            "username": "gard",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-031e.svg",
+            "department": "Oslo",
+            "level": 2,
+            "first_name": "Gard Sandholt",
+            "last_name": ""
+          },
+          "rank": 1,
+          "value": 123496
+        },
+        {
+          "user": {
+            "id": 11989,
+            "username": "Trond AA",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-5825.svg",
+            "department": null,
+            "level": 1,
+            "first_name": "Trond",
+            "last_name": "A."
+          },
+          "rank": 2,
+          "value": 120777
+        },
+        {
+          "user": {
+            "id": 8687,
+            "username": "FS",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a26d.svg",
+            "department": "Oslo",
+            "level": 1,
+            "first_name": "Fredrik",
+            "last_name": "Samuelsen"
+          },
+          "rank": 3,
+          "value": 108599
+        },
+        {
+          "user": {
+            "id": 11981,
+            "username": "IYg",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a26d.svg",
+            "department": "Oslo",
+            "level": 1,
+            "first_name": "Sadan-Test",
+            "last_name": ""
+          },
+          "rank": 4,
+          "value": 92139
+        },
+        {
+          "user": {
+            "id": 4,
+            "username": "Hjk",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-7275.svg",
+            "department": "Oslo",
+            "level": 2,
+            "first_name": "Eirik Monsen",
+            "last_name": ""
+          },
+          "rank": 5,
+          "value": 90281
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 6,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 7914,
+            "username": "Anonymous",
+            "image":
+              "https://s3.eu-central-1.amazonaws.com/attensi-portal-production/images/defaults/avatar-default.svg",
+            "department": "Oslo",
+            "level": 2
+          },
+          "rank": 7,
+          "value": 0
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 8,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 9,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 10,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 11,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 12,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 13,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 14,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 15,
+          "value": 64331
+        },
+        {
+          "user": {
+            "id": 8679,
+            "username": "userdes",
+            "image":
+              "https://attensi-portal-staging.s3.eu-central-1.amazonaws.com/images/avatars/some-cateogry/avatar-image-a5b0.svg",
+            "department": "Åndalsnes",
+            "level": 2,
+            "first_name": "Cesar",
+            "last_name": "User"
+          },
+          "rank": 16,
+          "value": 64331
+        }
+      ]
+    }
+  ]
+}

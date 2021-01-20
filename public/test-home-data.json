@@ -1,0 +1,261 @@
+{
+  "assignments": [
+    {
+      "name": "Easy kategori",
+      "items": [
+        {
+          "type": "SIM",
+          "product": {
+            "id": 1,
+            "title": "Dragon Balls",
+            "image":
+              "https://attensi-portal-production.s3.eu-central-1.amazonaws.com/images/products/balls/product-image-99266b.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 2,
+            "title": "Car to Mars",
+            "image": "https://i.ytimg.com/vi/ZG_F1EfzKOc/maxresdefault.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": {
+              "label": "SIM",
+              "description": "Original game",
+              "open_with": "launcher"
+            }
+          }
+        },
+        {
+          "type": "Game",
+          "product": {
+            "id": 3,
+            "title": "Another easy game",
+            "image": "https://nerdist.com/wp-content/uploads/2014/12/Mario.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "Game",
+          "product": {
+            "id": 4,
+            "title": "Scary Game",
+            "image":
+              "http://cdn.akamai.steamstatic.com/steam/apps/698780/header.jpg?t=1509687157",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "Music",
+          "product": {
+            "id": 5,
+            "title": "Metallica",
+            "image":
+              "http://s1.ticketm.net/img/tat/dam/a/1fb/5c143e79-9f0d-4224-9fa5-c41c558ae1fb_362051_CUSTOM.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Standard kategori",
+      "items": [
+        {
+          "type": "SIM",
+          "product": {
+            "id": 20,
+            "title": "Malmsteen",
+            "image":
+              "https://media2.fdncms.com/gambit/imager/u/original/4885403/hc-yngwie-malmsteen-infinity-hall-hartford-20170510.jpeg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 21,
+            "title": "Pokemon GO",
+            "image":
+              "http://itavisen.no/wp-content/uploads/2016/07/pokemon_go_logo-1-1.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 24,
+            "title": "Flat Earth",
+            "image": "https://i.ytimg.com/vi/34qH2MsSbm4/hqdefault.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "href" }
+          }
+        },
+        {
+          "type": "GAME",
+          "product": {
+            "id": 25,
+            "title": "9gag",
+            "image":
+              "http://i0.kym-cdn.com/photos/images/newsfeed/000/503/713/b50.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": false,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vaskelig kategori",
+      "items": [
+        {
+          "type": "Film",
+          "product": {
+            "id": 40,
+            "title": "Die Hard",
+            "image":
+              "http://digitalspyuk.cdnds.net/16/45/980x490/landscape-1478879153-die-hard.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": true,
+            "minigame": "wheel_of_fortune",
+            "badge": "learning_nugget",
+            "type": { "label": "", "description": "", "open_with": "href" }
+          }
+        },
+        {
+          "type": "Film",
+          "product": {
+            "id": 41,
+            "title": "Matrix",
+            "image":
+              "https://metrouk2.files.wordpress.com/2017/02/the-matrix.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": false,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 42,
+            "title": "LOTR",
+            "image":
+              "https://cdn.arstechnica.net/wp-content/uploads/2017/11/lord-of-the-rings-800x346.jpg",
+            "visible_before_active": false,
+            "active": true,
+            "playable": false,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 43,
+            "title": "Dead Pool",
+            "image":
+              "https://s3.eu-central-1.amazonaws.com/attensi-portal-production/images/defaults/product-default.png",
+            "visible_before_active": false,
+            "active": true,
+            "playable": false,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 44,
+            "title": "Something else",
+            "image":
+              "https://s3.eu-central-1.amazonaws.com/attensi-portal-production/images/defaults/product-default.png",
+            "visible_before_active": false,
+            "active": true,
+            "playable": false,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        },
+        {
+          "type": "SIM",
+          "product": {
+            "id": 45,
+            "title": "Something more",
+            "image":
+              "https://s3.eu-central-1.amazonaws.com/attensi-portal-production/images/defaults/product-default.png",
+            "visible_before_active": false,
+            "active": true,
+            "playable": false,
+            "minigame": null,
+            "badge": null,
+            "type": { "label": "", "description": "", "open_with": "launcher" }
+          }
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 10773,
+    "username": "Testing",
+    "image":
+      "https://attensi-portal-production.s3.eu-central-1.amazonaws.com/images/avatars/animals/avatar-image-8dd2.svg",
+    "department": null,
+    "level": 1,
+    "first_name": "Test",
+    "last_name": "User"
+  },
+  "profile_level": {
+    "experience": 319,
+    "level": 1,
+    "current_level_at": 0,
+    "next_level_at": 3882
+  }
+}

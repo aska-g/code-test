@@ -1,0 +1,41 @@
+.item {
+  flex-basis: calc(25% - 20px);
+  margin: 10px 10px 30px 0;
+
+  .picture {
+    position: relative;
+  }
+  .item-picture {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+  }
+  .item-type {
+    color: white;
+    position: absolute;
+    width: calc(100% - 10px);
+    bottom: 5px;
+    padding: 5px;
+    background-color: rgba($color: #000000, $alpha: 0.6);
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .item-title {
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #222831;
+  }
+}
+.button-wrapper {
+  text-align: right;
+  button {
+    background-color: black;
+    font-weight: bold;
+    padding: 5px;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+  }
+}
